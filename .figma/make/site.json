@@ -1,0 +1,10 @@
+{
+  "description": "This healthcare analytics platform provides data-driven insights and reporting tools for healthcare professionals, enhancing decision-making and operational efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
